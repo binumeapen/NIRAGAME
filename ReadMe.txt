@@ -1,4 +1,4 @@
-TIC TAC TOE GAME
+NIRA GAME
 ---------------------------------------
 
 	The Interface
