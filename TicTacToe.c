@@ -1,5 +1,5 @@
 /* CREATED BY BINU M EAPEN 27/09/2019
- * TIC TAC TOE GAME */
+ * NIRA GAME */
 #include <stdio.h>
 #include <stdlib.h>
 
