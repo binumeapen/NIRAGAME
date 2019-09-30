@@ -7,8 +7,25 @@
 //GAME STARTS
 void start()
 {
+	int i,j;
+	char NirArr[3][3];
+	NirArr[0][0]='1';
+	NirArr[0][1]='2';
+	NirArr[0][2]='3';
+	NirArr[1][0]='4';
+	NirArr[1][1]='5';
+	NirArr[1][2]='6';
+	NirArr[2][0]='7';
+	NirArr[2][1]='8';
+	NirArr[2][2]='9';
 	system("clear");
-	printf("welcome");
+	printf("%c-----%c-----%c\n",NirArr[0][0],NirArr[0][1],NirArr[0][2]);
+	printf("| \\   |  / | \n");
+	printf("|  \\  | /  | \n");
+	printf("%c-----%c-----%c\n",NirArr[1][0],NirArr[1][1],NirArr[1][2]);
+	printf("|   / | \\  | \n");
+	printf("|  /  |  \\ | \n");
+	printf("%c-----%c-----%c\n",NirArr[2][0],NirArr[2][1],NirArr[2][2]);
 	
 }
 	
